@@ -62,17 +62,17 @@ education:
     date_start: 2018-09-01
     date_end: 2021-12-31
     summary: |
-      Thesis on Reseach on Key Technologies of ToF-based Acoustic Indoor Positioning System. Supervised by [Prof Ruizhi Chen](https://sds.cuhk.edu.cn/teacher/2070).
+      Thesis on Reseach on Key Technologies of ToF-based Acoustic Indoor Positioning System. Supervised by [Prof. Ruizhi Chen](https://sds.cuhk.edu.cn/teacher/2070).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Scientist
+    company_name: Finnish Geospatial Research Institute FGI in National Land Survery of Finland
+    company_url: https://www.maanmittauslaitos.fi/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-05-02
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -96,6 +96,10 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: HW and SW
+        description: ''
+        percent: 80
+        icon: Flag
       - name: Python
         description: ''
         percent: 80
@@ -127,44 +131,24 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: The 7th China International "Internet +" College Student Innovation and Entrepreneurship Competition
+    url: https://pitchbook.com/profiles/company/489593-26#overview
+    date: '2021-10-01'
+    awarder: International "Internet +"
+    icon: International "Internet +"
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I developed the hardware of the acoustic-based positioning and integrated the related embedded software into the RSIC-V based chip.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Zuoya is an excellent scientist in the field of positioning and navigation technologies. He has extensive experience across hardware, software, system integration and data processing, as well as algorithm research. He has also more than six years of experience in the industry. He is currently a Senior Scientist with the Finnish Geospatial Research Institute (FGI) in the National Land Survey of Finland, and has been the first author or a co-author in 29 peer-reviewed articles and two Guest Editors of the Special Issue in Remote Sensing. Dr. Zuoya will be a Research Fellow of Academy of Finland (now also called Research Council of Finland), starting from September 1, 2025. 
