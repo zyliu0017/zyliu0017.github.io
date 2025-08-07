@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ZvSB3RAAAAAJ&hl=en/
   - icon: academicons/orcid
-    url: https://orcid.org](https://orcid.org/my-orcid?orcid=0000-0002-9407-5008/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-9407-5008/
 
 interests:
   - Indoor Positioning Technologies
@@ -151,4 +151,4 @@ awards:
 
 ## About Me
 
-Dr. Zuoya is an excellent scientist in the field of positioning and navigation technologies. He has extensive experience across hardware, software, system integration and data processing, as well as algorithm research and development. He has also more than six years of experience in the industry. He is currently a Senior Scientist with the Finnish Geospatial Research Institute (FGI) in the National Land Survey of Finland, and has been the first author or a co-author in more than 30 peer-reviewed articles and two Guest Editors of the Special Issue in Remote Sensing. Dr. Zuoya will be a Research Fellow of Academy of Finland (now also called Research Council of Finland), starting from September 1, 2025. 
+Dr. Zuoya is an excellent scientist in the field of positioning and navigation technologies. He has extensive experience across hardware, software, system integration and data processing, as well as algorithm research and development. He has also more than six years of experience in the industry. He is currently a Senior Scientist with the Finnish Geospatial Research Institute (FGI) in the National Land Survey of Finland, and has been the first author or a co-author in more than 30 peer-reviewed articles and two Guest Editors of the Special Issue in Remote Sensing. Dr. Zuoya will be a Research Fellow of Academy of Finland (now also called Research Council of Finland), starting from September 1, 2025. [Google Scholar](https://scholar.google.com/citations?user=ZvSB3RAAAAAJ&hl=en/)
