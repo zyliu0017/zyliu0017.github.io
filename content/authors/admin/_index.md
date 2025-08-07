@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 刘佐牙
+title: Zuoya Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Liu Zuoya
+# name_pronunciation: Liu Zuoya
 
 # Full name (for SEO)
 first_name: Zuoya
@@ -11,7 +11,7 @@ last_name: Liu
 
 # Status emoji
 status:
-  icon: 🏃🏼🏖️🏡
+  icon: 🏃🏼
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zyliu0017@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  # url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://zyliu0017.github.io/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/zuoya-liu-a427ab1a5/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=ZvSB3RAAAAAJ&hl=en/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org](https://orcid.org/my-orcid?orcid=0000-0002-9407-5008/
 
 interests:
   - Indoor Positioning Technologies
@@ -62,32 +62,11 @@ education:
     date_start: 2018-09-01
     date_end: 2021-12-31
     summary: |
-      Thesis on Reseach on Key Technologies of ToF-based Acoustic Indoor Positioning System. Supervised by [Prof Ruizhi Chen](https://sds.cuhk.edu.cn/teacher/2070). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Reseach on Key Technologies of ToF-based Acoustic Indoor Positioning System. Supervised by [Prof Ruizhi Chen](https://sds.cuhk.edu.cn/teacher/2070).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
