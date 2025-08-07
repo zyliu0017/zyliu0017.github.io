@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘佐牙
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liu Zuoya
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zuoya
+last_name: Liu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏃🏼🏖️🏡
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Finnish Geospatial Research Institute FGI
+    url: https://www.maanmittauslaitos.fi
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,17 +47,22 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Indoor Positioning Technologies
+  - Forest Survery and Management 
+  - UWB Positioning
+  - Acoustic Positioning
+  - Sensors Fusion
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD, Geodesy and Survey Engineering
+    institution: Wuhan University
+    date_start: 2018-09-01
+    date_end: 2021-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Reseach on Key Technologies of ToF-based Acoustic Indoor Positioning System. Supervised by [Prof Ruizhi Chen](https://sds.cuhk.edu.cn/teacher/2070). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
