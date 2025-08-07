@@ -9,10 +9,6 @@ title: Zuoya Liu
 first_name: Zuoya
 last_name: Liu
 
-# Status emoji
-status:
-  icon: 🏃🏼
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -25,7 +21,7 @@ role: Research Scientist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Finnish Geospatial Research Institute FGI
-    url: https://www.maanmittauslaitos.fi
+    url: https://www.maanmittauslaitos.fi/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -37,24 +33,27 @@ profiles:
   # url: https://twitter.com/GetResearchDev
   #- icon: brands/instagram
   #  url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://zyliu0017.github.io/
+  #- icon: brands/github
+  #  url: https://zyliu0017.github.io/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/zuoya-liu-a427ab1a5/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=ZvSB3RAAAAAJ&hl=en/
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0002-9407-5008/
+    url: https://orcid.org/0000-0002-9407-5008
 
 interests:
-  - Indoor Positioning Technologies
-  - Forest Survery and Management 
-  - UWB Positioning
-  - Acoustic Positioning
-  - Sensors Fusion
+  - Indoor Positioning and Tracking Technologies
+  - Ultra-Wideband
+  - Acoustic
+  - Radio Frequency-based Positioning
+  - LiDAR Scanning
+  - Sensor Fusion
+  - Internet of Things
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Forest Survery and Management
+  - Tree Map
 
 education:
   - area: PhD, Geodesy and Survey Engineering
@@ -70,7 +69,7 @@ education:
 work:
   - position: Research Scientist
     company_name: Finnish Geospatial Research Institute FGI in National Land Survery of Finland
-    company_url: https://www.maanmittauslaitos.fi/
+    company_url: https://www.maanmittauslaitos.fi/en
     company_logo: ''
     date_start: 2022-05-02
     date_end: ''
