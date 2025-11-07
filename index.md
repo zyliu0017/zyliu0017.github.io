@@ -15,7 +15,8 @@ Dr. Zuoya Liu is an excellent scientist in the field of positioning and navigati
 
 ## News
 
-- **[Apr. 2025]** Our paper Comparative Analysis of UWB and Mobile Laser Scanning Systems for Mapping Forest Trees under a Forest Canopy has been accepted as a Oral Presentation in ISPRS Geospatial Week 2025 in Dubai.
+- **[Apr. 2025]** Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a Oral Presentation in ISPRS Geospatial Week 2025 in Dubai.
+(https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.html)
 
 {% include_relative _includes/publications.md %}
 
