@@ -1,7 +1,7 @@
 main:
 
   - title: Comparative Analysis of Ultra-Wideband and Mobile Laser Scanning Systems for Mapping Forest Trees under A Forest Canopy
-    authors: <strong>Zuoya Liu*</strong>, Harri Kaartinen, Teemu Hakala, Heikki Hyyti, Antero Kukko, Juha Hyyppa, Ruizhi Chen (*Corresponding authors)
+    authors: <strong>Zuoya Liu*</strong>, Harri Kaartinen, Teemu Hakala, Heikki Hyyti, Antero Kukko, Juha Hyyppä, Ruizhi Chen (*Corresponding authors)
     conference_short: ISPRS Annals
     conference: ISPRS Geospatial Week, 2025, Dubai
     pdf: https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.pdf
@@ -9,3 +9,13 @@ main:
     bibtex: 
     image: ./assets/img/UWB-MLSs.png
     notes: Oral Presentation
+  
+  - title: Ultra-Wideband-Based Method for Measuring Tree Positions with Decimeter-Level Accuracy Under a Forest Canopy
+    authors: <strong>Zuoya Liu*</strong>, Harri Kaartinen, Teemu Hakala, Heikki Hyyti, Juha Hyyppä, Antero Kukko, Ruizhi Chen, Mikko Vastaranta. (*Corresponding authors)
+    conference_short: IEEE JSTARS
+    conference: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11003419
+    code: 
+    bibtex: 
+    image: ./assets/img/UWB-TreeMaps.png
+    notes: 
