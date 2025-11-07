@@ -1,11 +1,11 @@
 main:
 
-  - title: # Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: # Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: # MICCAI
-    conference: # International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: # https://arxiv.org/pdf/2306.00988.pdf
-    code: # https://github.com/MrGiovanni/ContinualLearning
-    bibtex: # https://bib.yliu.me/MICCAI23.txt
-    image: # ./assets/img/teaser_example_2.png
-    notes: # Early Accept
+  - title: Comparative Analysis of Ultra-Wideband and Mobile Laser Scanning Systems for Mapping Forest Trees under A Forest Canopy
+    authors: <strong>Zuoya Liu*<strong>, Harri Kaartinen, Teemu Hakala, Heikki Hyyti, Antero Kukko, Juha Hyyppä, Ruizhi Chen (*Corresponding authors)
+    conference_short: ISPRS Annals
+    conference: ISPRS Geospatial Week, 2025, Dubai
+    pdf: https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.pdf
+    code: 
+    bibtex: 
+    image: ./assets/img/UWB-MLSs.png
+    notes: Oral Presentation
