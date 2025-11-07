@@ -8,10 +8,16 @@ Dr. Zuoya Liu is currently a [Senior Research Scientist](https://www.maanmittaus
 --> starting from September 1, 2025.<!--
 --> My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.<!--
 --> My reserach interests include **UWB**, **Acoustic**, **IMU**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
-<br>
-Previously, I completed my PhD thesis in Geodesy and Survey Engineering at [Wuhan University](https://www.whu.edu.cn/). <!--
---> I has also more than six years of experience in the industry, full-time or part-time at [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html)<!--
---> and [Field](https://fi.fieldgeo.com/).
+<br />
+<br />
+I came from a world-leading university, remote sensing in [Wuhan University](https://www.whu.edu.cn/)<!--
+--> has been ranked #1 in the Academic Ranking of World Universities since 2017, where I completed my PhD thesis in Geodesy and Survey Engineering.<!--
+--> I came to [FGI] in 2022, one of the world-leading research institutes in the field to become one of the leading experts in the world in my field.<!--
+--> The persons I collaborate with in FGI, have been PIs for two Research Council flagships, one Strategic Research Council project and one Center of Excellence,<!--
+--> and 15+ international science projects, in addition to that they are also the most-cited researchers in their field.<!--
+--> I have also more than six years of experience in the industry, acting as a **Hw**, **SW** or **System Engineer**, full-time or part-time at<!--
+--> [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html), [ZLNavi](https://www.zlnavi.com/) and [Field](https://fi.fieldgeo.com/).<!--
+--> I contribute to the industry all the time.
 
 
 ## News 
