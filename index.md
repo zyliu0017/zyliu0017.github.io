@@ -17,7 +17,7 @@ Dr. Zuoya Liu is an excellent scientist in the field of positioning and navigati
 ## News 
 - **[Sep. 2025]** Our project **EATP4Plots** funded by the **RCF Finland** is online. 
 <a href="https://www.maanmittauslaitos.fi/en/research/eatp4plots" target="_blank" rel="noopener">LINK</a>
-- **[Jun. 2025]** EATP4Plots is accepted by the RCF Finland for a **Fellowship project of 4 years**. 
+- **[Jun. 2025]** EATP4Plots is accepted by the RCF Finland as a **Fellowship project of 4 years**. 
 <a href="https://research.fi/en/results/funding/83040" target="_blank" rel="noopener">LINK</a>
 - **[Apr. 2025]** Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a **Oral Presentation** in **ISPRS Geospatial Week 2025** in Dubai.
 <a href="https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.html" target="_blank" rel="noopener">LINK</a>
