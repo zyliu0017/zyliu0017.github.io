@@ -11,12 +11,10 @@ layout: homepage
 --> I came to [FGI](https://www.maanmittauslaitos.fi/en/research) in 2022.<!--
 --> The persons I collaborate with in FGI, have been PIs for two Research Council flagships, one Strategic Research Council project and one Center of Excellence,<!--
 --> and 15+ international science projects.
-<br />
-<br />
+
 My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.<!--
 --> My reserach interests include **UWB**, **Acoustic**, **IMU**, **Laser Scanning**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
-<br />
-<br />
+
 I have also more than six years of experience in the industry, acting as a **HW**, **SW** or **System Engineer**, full-time or part-time at<!--
 --> [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html), [ZLNavi](https://www.zlnavi.com/) and [Field](https://fi.fieldgeo.com/).<!--
 --> I contribute to the industry all the time.
