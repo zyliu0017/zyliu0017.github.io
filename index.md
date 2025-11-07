@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-Dr. Zuoya Liu is currently a [Senior Research Scientist](https://www.maanmittauslaitos.fi/en/research/contact-information/staff/zuoya-liu)\
-at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland,\
-and an [Academy Research Fellow](https://research.fi/en/results/funding/83040) of the [Research Council of Finland](https://www.aka.fi/en/), starting from September 1, 2025.\
+Dr. Zuoya Liu is currently a [Senior Research Scientist](https://www.maanmittauslaitos.fi/en/research/contact-information/staff/zuoya-liu)<!--
+-->at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland,<!--
+-->and an [Academy Research Fellow](https://research.fi/en/results/funding/83040) of the [Research Council of Finland](https://www.aka.fi/en/), starting from September 1, 2025.\
 <br>
 My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.\
 My reserach interests include **UWB**, **Acoustic**, **IMU**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
