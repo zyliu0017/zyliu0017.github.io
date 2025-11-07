@@ -6,15 +6,18 @@ Dr. Zuoya Liu is currently a [Senior Research Scientist](https://www.maanmittaus
 --> at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland,<!--
 --> and an [Academy Research Fellow](https://research.fi/en/results/funding/83040) of the [Research Council of Finland](https://www.aka.fi/en/),<!--
 --> starting from September 1, 2025.<!--
---> My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.<!--
+--> I came from a world-leading university, remote sensing in [Wuhan University](https://www.whu.edu.cn/)<!--
+--> has been ranked #1 in the Academic Ranking of World Universities since 2017, where I completed my PhD in Geodesy and Survey Engineering.<!--
+--> I came to [FGI](https://www.maanmittauslaitos.fi/en/research) in 2022.<!--
+--> The persons I collaborate with in FGI, have been PIs for two Research Council flagships, one Strategic Research Council project and one Center of Excellence,<!--
+--> and 15+ international science projects.<!--
+<br />
+<br />
+My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.<!--
 --> My reserach interests include **UWB**, **Acoustic**, **IMU**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
 <br />
 <br />
-I came from a world-leading university, remote sensing in [Wuhan University](https://www.whu.edu.cn/)<!--
---> has been ranked #1 in the Academic Ranking of World Universities since 2017, where I completed my PhD thesis in Geodesy and Survey Engineering.<!--
---> I came to [FGI] in 2022, one of the world-leading research institutes in the field to become one of the leading experts in the world in my field.<!--
---> The persons I collaborate with in FGI, have been PIs for two Research Council flagships, one Strategic Research Council project and one Center of Excellence,<!--
---> and 15+ international science projects, in addition to that they are also the most-cited researchers in their field.<!--
+
 --> I have also more than six years of experience in the industry, acting as a **Hw**, **SW** or **System Engineer**, full-time or part-time at<!--
 --> [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html), [ZLNavi](https://www.zlnavi.com/) and [Field](https://fi.fieldgeo.com/).<!--
 --> I contribute to the industry all the time.
