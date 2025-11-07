@@ -6,8 +6,8 @@ layout: homepage
 --> at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland,<!--
 --> and an [Academy Research Fellow](https://research.fi/en/results/funding/83040) of the [Research Council of Finland](https://www.aka.fi/en/),<!--
 --> starting from September 1, 2025.<!--
---> I came from a world-leading university, remote sensing in [Wuhan University](https://www.whu.edu.cn/)<!--
---> has been ranked #1 in the Academic Ranking of World Universities since 2017, where I completed my PhD in **Geodesy and Survey Engineering**.<!--
+--> I came from a world-leading university, **remote sensing** in [Wuhan University](https://www.whu.edu.cn/)<!--
+--> has been ranked **#1** in the Academic Ranking of World Universities since 2017, where I completed my PhD in **Geodesy and Survey Engineering**.<!--
 --> I came to [FGI](https://www.maanmittauslaitos.fi/en/research) in 2022.<!--
 --> The persons I collaborate with in FGI, have been PIs for two Research Council flagships, one Strategic Research Council project and one Center of Excellence,<!--
 --> and 15+ international science projects.
@@ -17,8 +17,7 @@ My reserach lies at **Localization and Navigation Technologies Indoors and Outdo
 --> My reserach interests include **UWB**, **Acoustic**, **IMU**, **Laser Scanning**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
 <br />
 <br />
-
---> I have also more than six years of experience in the industry, acting as a **Hw**, **SW** or **System Engineer**, full-time or part-time at<!--
+I have also more than six years of experience in the industry, acting as a **HW**, **SW** or **System Engineer**, full-time or part-time at<!--
 --> [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html), [ZLNavi](https://www.zlnavi.com/) and [Field](https://fi.fieldgeo.com/).<!--
 --> I contribute to the industry all the time.
 
