@@ -46,15 +46,15 @@
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <position style="font-size:1.12rem;">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="https://www.maanmittauslaitos.fi/en/research/contact-information/staff/zuoya-liu" rel="noopener" style="font-size:1.10rem"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <a {{ href="https://www.maanmittauslaitos.fi/en/research/contact-information/staff/zuoya-liu" }} rel="noopener" style="font-size:1.12rem"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <email style="font-size:1.12rem;">{{ site.email }}</email>
         {% endif %}
 
         <br>
