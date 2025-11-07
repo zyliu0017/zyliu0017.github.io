@@ -2,8 +2,8 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 20px;">
-  <li><a href="https://ipin-conference.org/2025"><autocolor>Indoor Positioning and Indoor Navigation (IPIN)</autocolor></a></li>
-  <li><a href="https://upinlbs2025.ubinp.com/technical"><autocolor>Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS)</autocolor></a></li>
+  <li><a href="https://ipin-conference.org"><autocolor>Indoor Positioning and Indoor Navigation (IPIN)</autocolor></a></li>
+  <li><a href="https://upinlbs2025.ubinp.com/"><autocolor>Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS)</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
