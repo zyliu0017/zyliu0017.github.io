@@ -13,7 +13,8 @@ layout: homepage
 --> and 15+ international science projects.
 
 My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.<!--
---> My reserach interests include **UWB**, **Acoustic**, **IMU**, **Laser Scanning**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
+--> My reserach interests include **UWB**, **Acoustic**, **IMU**, **Laser Scanning**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.<!--
+--> [Goole Scholar](https://scholar.google.com/citations?user=ZvSB3RAAAAAJ&hl=en)
 
 I have also more than six years of experience in the industry, acting as a **HW**, **SW** or **System Engineer**, full-time or part-time at<!--
 --> [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html), [ZLNavi](https://www.zlnavi.com/) and [Field](https://fi.fieldgeo.com/).<!--
