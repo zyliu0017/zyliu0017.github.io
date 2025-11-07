@@ -2,17 +2,22 @@
 layout: homepage
 ---
 
-Dr. Zuoya Liu is currently a [Senior Research Scientist](https://www.maanmittauslaitos.fi/en/research/contact-information/staff/zuoya-liu)\
-at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland,\
-and an [Academy Research Fellow](https://research.fi/en/results/funding/83040) of the Research Council of Finland, starting from September 1, 2025.\
+<p>
+Dr. Zuoya Liu is currently a [Senior Research Scientist](https://www.maanmittauslaitos.fi/en/research/contact-information/staff/zuoya-liu)
+<!-- --> at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland,
+<!-- --> and an [Academy Research Fellow](https://research.fi/en/results/funding/83040) of the [Research Council of Finland](https://www.aka.fi/en/),
+<!-- --> starting from September 1, 2025.
 <br>
-My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.\
+My reserach lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.
+<!-- -->
 My reserach interests include **UWB**, **Acoustic**, **IMU**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
 <br>
-Previously, I completed my PhD thesis in Geodesy and Survey Engineering at [Wuhan University](https://www.whu.edu.cn/).\
-I has also more than six years of experience in the industry, full-time or part-time at [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html)\
+Previously, I completed my PhD thesis in Geodesy and Survey Engineering at [Wuhan University](https://www.whu.edu.cn/).
+<!-- -->
+I has also more than six years of experience in the industry, full-time or part-time at [Hi-cloud](https://www.hi-cloud.com.cn/about_index.html)
+<!-- -->
 and [Field](https://fi.fieldgeo.com/).
-
+<p>
 
 ## News 
 - **[Sep. 2025]** Our project **EATP4Plots** funded by the **RCF Finland** is online. 
