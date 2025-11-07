@@ -17,7 +17,5 @@ Dr. Zuoya Liu is an excellent scientist in the field of positioning and navigati
 <a href="https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.html" target="_blank" rel="noopener">LINK</a>
 
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
-
 {% include_relative _includes/contact.md %}
