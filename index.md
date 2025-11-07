@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Dr. Zuoya Liu is an excellent scientist in the field of positioning and navigation technologies. He has extensive experience across hardware, software, system integration and data processing, as well as algorithm research. He has also more than six years of experience in the industry. He is currently a Senior Research Scientist at the Finnish Geospatial Research Institute (FGI) in the National Land Survey of Finland, and an Academy Research Fellow of the Research Council of Finland, starting from September 1, 2025. 
+Dr. Zuoya Liu is an excellent scientist in the field of positioning and navigation technologies. He has extensive experience across hardware, software, system integration and data processing, as well as algorithm research. He has also more than six years of experience in the industry. He is currently a Senior Research Scientist at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland, and an [Academy Research Fellow](https://research.fi/en/results/funding/83040) of the Research Council of Finland, starting from September 1, 2025. 
 
 ## Research Interests
 
