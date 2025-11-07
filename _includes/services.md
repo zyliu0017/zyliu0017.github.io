@@ -9,5 +9,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755"><autocolor>IEEE Transactions on Mobile Computing (IEEE TMC)</autocolor></a></li>  
+  <li><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6488907"><autocolor>IEEE Internet of Things Journal (IEEE IoT)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19"><autocolor>IEEE Transactions on Instrumentation and Measurement (IEEE TIM)</autocolor></a></li>  
 </ul>
