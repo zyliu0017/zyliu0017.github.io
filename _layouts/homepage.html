@@ -40,7 +40,7 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" style="width:180px; height:180px; border-radius:50%;"/></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
@@ -54,7 +54,7 @@
         <br>
         {% endif %}
         {% if site.email %}
-        <email style="font-size:1.12rem;">{{ site.email }}</email>
+        <email>{{ site.email }}</email>
         {% endif %}
 
         <br>
