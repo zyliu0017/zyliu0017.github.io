@@ -18,7 +18,7 @@ main:
     code: 
     bibtex: 
     image: ./assets/img/UWB-TreeMaps.png
-    notes: 
+    notes: Regular Paper
 
   - title: Performance Analysis of Ultra-Wideband Positioning for Measuring Tree Positions in Boreal Forest Plots
     authors: <strong>Zuoya Liu*</strong>, Harri Kaartinen, Teemu Hakala, Heikki Hyyti, Juha Hyyppä, Antero Kukko, Ruizhi Chen. (*Corresponding authors)
@@ -28,4 +28,4 @@ main:
     code: 
     bibtex: 
     image: ./assets/img/UWB-TreeMapsMetrics.png
-    notes: 
+    notes: Regular Paper
