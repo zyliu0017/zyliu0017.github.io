@@ -5,7 +5,7 @@ main:
     conference_short: ISPRS Annals
     conference: ISPRS Geospatial Week, 2025, Dubai
     pdf: https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.pdf
-    # code: 
-    # bibtex: 
+    code: 
+    bibtex: 
     image: ./assets/img/UWB-MLSs.png
     notes: Oral Presentation
