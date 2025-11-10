@@ -13,7 +13,7 @@ layout: homepage
 --> and 15+ international science projects.
 
 My research lies at **Localization and Navigation Technologies Indoors and Outdoors** - with a special focus on **Precision Forestry** and **Intelligent Systems**.<!--
---> My reserach interests include **UWB**, **Acoustic**, **IMU**, **Laser Scanning**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
+--> My research interests include **UWB**, **Acoustic**, **IMU**, **Laser Scanning**, **Sensor Fusion**, **Internet-of-Things**, **Field Surveying**, and **Mini-Drones**.
 
 I have also more than six years of experience in the industry, acting as a **HW**, **SW** or **System Engineer**, full-time or part-time at<!--
 --> [Hi-cloud](https://en.hi-cloud.com.cn/), [ZLNavi](https://www.zlnavi.com/) and [Field](https://fi.fieldgeo.com/).<!--
