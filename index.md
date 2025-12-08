@@ -28,7 +28,7 @@ I have also more than six years of experience in the industry, acting as a **HW*
 - **[Apr. 2025]** Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a **Oral Presentation** in **ISPRS Geospatial Week 2025** in Dubai.
 <a href="https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.html" target="_blank" rel="noopener">LINK</a>
 
-{% include_relative _includes/projects.md %}
+<!-- {% include_relative _includes/projects.md %} -->
 
 {% include_relative _includes/publications.md %}
 
