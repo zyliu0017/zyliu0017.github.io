@@ -21,6 +21,8 @@ I have also more than six years of experience in the industry, acting as a **HW*
 
 
 ## Latest News 
+- **[Nov. 2025]** Technical Sub-forum of **Radio Frequency-based Indoor Positioning and Applications** is held in the 9th UPINLBS 2025 in Shenzhen, China. 
+<a href="https://upinlbs2025.ubinp.com/technical" target="_blank" rel="noopener">LINK</a>
 - **[Sep. 2025]** Our project **EATP4Plots** funded by the **RCF Finland** is online. 
 <a href="https://www.maanmittauslaitos.fi/en/research/eatp4plots" target="_blank" rel="noopener">LINK</a>
 - **[Jun. 2025]** EATP4Plots is accepted by the RCF Finland as a **Fellowship project of 4 years**. 
