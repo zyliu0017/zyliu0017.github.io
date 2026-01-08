@@ -1,4 +1,4 @@
-<h2 id="projects" style="margin: 2px 0px -15px;">projects</h2>
+<h2 id="projects" style="margin: 2px 0px -15px;">Projects</h2>
 
 <div class="projects">
 <ol class="bibliography">
@@ -17,7 +17,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.PI }}</div>
+      <div class="info">{{ link.info }}</div>
       <div class="periodical"><em>{{ link.funding_organisation_or_partners }}</em>
       </div>
     <div class="links">
