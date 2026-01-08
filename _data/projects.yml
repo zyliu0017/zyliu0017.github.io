@@ -1,11 +1,11 @@
 main:
 
   - title: EATP4Plots
-    PI: <strong>Zuoya Liu</strong>
+    PI: <strong>PI: Zuoya Liu</strong>
     research_area: Mobile Geomatics
     funding_organisation_or_partners: FGI, Academy of Finland
     image: 
-    link: https://www.maanmittauslaitos.fi/en/research/eatp4plots
+    Link: https://www.maanmittauslaitos.fi/en/research/eatp4plots
     notes: | 
       Accurate forest inventory management necessitates precise reference data collected at the individual tree level, including the spatial location of each reference tree
       In this project, we aim to develop an efficient and accurate methodology with submeter-level accuracy for measuring the position at individual tree level for forest plots
