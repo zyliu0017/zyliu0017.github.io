@@ -8,7 +8,7 @@ layout: homepage
 --> starting from September 1, 2025.<!--
 --> I came from a world-leading university, **remote sensing** in [Wuhan University](https://www.whu.edu.cn/)<!--
 --> has been ranked **#1** in the Academic Ranking of World Universities since 2017, where I completed my PhD in **Geodesy and Survey Engineering**.<!--
---> I came to [FGI](https://www.maanmittauslaitos.fi/en/research) in 2022. FGI has been ranked [#1] in [Laser Scanning], [Photogrammetry] and [UAV] by ScholarGPS<!--
+--> I came to [FGI](https://www.maanmittauslaitos.fi/en/research) in 2022. FGI has been ranked **#1** in **Laser Scanning**, **Photogrammetry** and **UAV** by the ScholarGPS<!--
 --> The persons I collaborate with in FGI, have been PIs for two Research Council flagships, one Strategic Research Council project and one Center of Excellence,<!--
 --> and 15+ international science projects.
 
@@ -30,7 +30,7 @@ I have also more than six years of experience in the industry, acting as a **HW*
 - **[Apr. 2025]** Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a **Oral Presentation** in **ISPRS Geospatial Week 2025** in Dubai.
 <a href="https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.html" target="_blank" rel="noopener">LINK</a>
 
-<!-- {% include_relative _includes/projects.md %} -->
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
 
