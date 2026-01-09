@@ -13,15 +13,15 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.title }}</div>
+      <div class="title" style="font-size: 16px;">{{ link.title }}</div>
       <div class="info1">{{ link.info1 }}</div>
       <div class="info2">{{ link.info2 }}</div>
     <div class="links">
-      {% if link.Link %} 
-      <a href="{{ link.Link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:15px;">LINK</a>
-      {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}
+      {% if link.Link %} 
+      <a href="{{ link.Link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:15px;">LINK</a><br>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
