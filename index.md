@@ -21,7 +21,7 @@ I have also more than six years of experience in the industry, acting as a **HW*
 
 
 ## Latest News
-- **[Dec. 2025]** Dr.Zuoya Liu has been approved to visit KTH for two months (Jul. - Sep. 2026), fully funded by the **Digital Futures 2026 Summer Early Career SEC Programme**.
+- **[Dec. 2025]** Dr.Zuoya Liu has been approved to visit KTH for two months (Jul. - Sep. 2026), fully funded by the **Digital Futures 2026 Summer Early Career SEC Programme**, and is the only participant selected from Finland.
 <a href="https://www.digitalfutures.kth.se/call/digital-futures-2026-summer-early-career-programme-sec-programme/" target="_blank" rel="noopener">LINK</a>
 - **[Dec. 2025]** Technical Sub-forum of **Radio Frequency-based Indoor Positioning and Applications** is held in the 9th International Conference on UPINLBS 2025 in Shenzhen, China. 
 <a href="https://upinlbs2025.ubinp.com/technical" target="_blank" rel="noopener">LINK</a>
