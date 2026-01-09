@@ -10,19 +10,16 @@
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.research_area %} 
-    <abbr class="badge">{{ link.research_area }}</abbr>
-    {% endif %}
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="info">{{ link.info }}</div>
-      <div class="periodical"><em>{{ link.funding_organisation_or_partners }}</em>
+      <div class="title">{{ link.title }}</div>
+      <div class="info1">{{ link.info1 }}</div>
+      <div class="info2">{{ link.info2 }}</div>
       </div>
     <div class="links">
-      {% if link.Link %} 
-      <a href="{{ link.Link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+      {% if link.link %} 
+      <a href="{{ link.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:15px;">LINK</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
