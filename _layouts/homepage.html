@@ -43,12 +43,8 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" style="width:140px; height:140px; border-radius:50%;"/></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1>{{ site.title | raw}}</h1>
         
-        {% if site.group %}
-        <group style="font-size:1.12rem;">{{ site.group }}</group>
-        <br>
-        {% endif %}
         {% if site.position %}
         <position style="font-size:1.12rem;">{{ site.position }}</position>
         <br>
