@@ -21,15 +21,15 @@ I have also more than six years of experience in the industry, acting as a **HW*
 
 
 ## Latest News
-- **[Dec. 2025]** Dr.Zuoya Liu has been approved to visit KTH for two months (Jul. - Sep. 2026), fully funded by the **Digital Futures 2026 Summer Early Career SEC Programme**, and is the only participant selected from Finland.
+- <span style="color:#e74d3c">**[Dec. 2025]** Dr.Zuoya Liu has been approved to visit KTH for two months (Jul. - Sep. 2026), fully funded by the **Digital Futures 2026 Summer Early Career SEC Programme**, and is the only participant selected from Finland.
 <a href="https://www.digitalfutures.kth.se/call/digital-futures-2026-summer-early-career-programme-sec-programme/" target="_blank" rel="noopener">LINK</a>
-- **[Dec. 2025]** Technical Sub-forum of **Radio Frequency-based Indoor Positioning and Applications** is held in the 9th International Conference on UPINLBS 2025 in Shenzhen, China. 
+- <span style="color:#e74d3c">**[Dec. 2025]** Technical Sub-forum of **Radio Frequency-based Indoor Positioning and Applications** is held in the 9th International Conference on UPINLBS 2025 in Shenzhen, China. 
 <a href="https://upinlbs2025.ubinp.com/technical" target="_blank" rel="noopener">LINK</a>
-- **[Sep. 2025]** Our project **EATP4Plots** funded by the **RCF Finland** is online. 
+- <span style="color:#e74d3c">**[Sep. 2025]** Our project **EATP4Plots** funded by the **RCF Finland** is online. 
 <a href="https://www.maanmittauslaitos.fi/en/research/eatp4plots" target="_blank" rel="noopener">LINK</a>
-- **[Jun. 2025]** EATP4Plots is accepted by the RCF Finland as a **Fellowship project of 4 years**. 
+- <span style="color:#e74d3c">**[Jun. 2025]** EATP4Plots is accepted by the RCF Finland as a **Fellowship project of 4 years**. 
 <a href="https://research.fi/en/results/funding/83040" target="_blank" rel="noopener">LINK</a>
-- **[Apr. 2025]** Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a **Oral Presentation** in **ISPRS Geospatial Week 2025** in Dubai.
+- <span style="color:#e74d3c">**[Apr. 2025]** Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a **Oral Presentation** in **ISPRS Geospatial Week 2025** in Dubai.
 <a href="https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.html" target="_blank" rel="noopener">LINK</a>
 
 {% include_relative _includes/projects.md %}
