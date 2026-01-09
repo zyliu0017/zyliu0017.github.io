@@ -16,10 +16,9 @@
       <div class="title">{{ link.title }}</div>
       <div class="info1">{{ link.info1 }}</div>
       <div class="info2">{{ link.info2 }}</div>
-      </div>
     <div class="links">
-      {% if link.link %} 
-      <a href="{{ link.link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:15px;">LINK</a>
+      {% if link.Link %} 
+      <a href="{{ link.Link }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:15px;">LINK</a>
       {% endif %}
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
