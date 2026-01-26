@@ -21,6 +21,8 @@ I have also more than six years of experience in the industry, acting as a **HW*
 
 
 ## Latest News
+- **[Jan. 2026]** Our paper entitiled "Tree Localization Using Integrated Heading, DBH and Ultra-Wideband for Precision Forestry" has been accepted for **Oral Presentation** at the **XXL ISPRS Congress, which will be held from 4 to 11 July 2026 in Toronto, Canada**. More info will be provided soon.
+<a href="https://www.isprs2026toronto.com/" target="_blank" rel="noopener">LINK</a>
 - **[Dec. 2025]** Dr.Zuoya Liu has been approved to visit KTH for two months (Jul. - Sep. 2026), fully funded by the **Digital Futures 2026 Summer Early Career SEC Programme**, and is the only participant selected from Finland.
 <a href="https://www.digitalfutures.kth.se/call/digital-futures-2026-summer-early-career-programme-sec-programme/" target="_blank" rel="noopener">LINK</a>
 - **[Dec. 2025]** Technical Sub-forum of **Radio Frequency-based Indoor Positioning and Applications** is held in the 9th International Conference on UPINLBS 2025 in Shenzhen, China. 
