@@ -13,7 +13,7 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative; padding-right: 15px; padding-left: 20px;  margin-top: 10px;">
-      <div class="title" style="font-size: 20px; color: blue;">{{ link.title }}</div>
+      <div class="title" style="font-size: 20px; color: #e74d3c;">{{ link.title }}</div>
       <div class="info1">{{ link.info1 }}</div>
       <div class="info2">{{ link.info2 }}</div>
     <div class="links">
