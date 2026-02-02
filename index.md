@@ -4,7 +4,7 @@ layout: homepage
 
 **Dr. Zuoya Liu** is currently a [Senior Research Scientist](https://www.maanmittauslaitos.fi/en/research/contact-information/staff/zuoya-liu)<!--
 --> at the [Finnish Geospatial Research Institute (FGI)](https://www.maanmittauslaitos.fi/en/research) in the National Land Survey of Finland,<!--
---> and an [Academy Research Fellow of Finland](https://research.fi/en/results/funding/83040),<!--
+--> and an [Academy Research Fellow of Finland](https://research.fi/en/results/funding/83040), [RCF](https://www.aka.fi/en/),<!--
 --> starting from September 1, 2025.<!--
 --> I came from a world-leading university, **remote sensing** in [Wuhan University](https://www.whu.edu.cn/)<!--
 --> has been ranked **#1** in the Academic Ranking of World Universities since 2017, where I completed my PhD in **Geodesy and Survey Engineering**.<!--
