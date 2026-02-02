@@ -27,7 +27,7 @@ I have also more than six years of experience in the industry, acting as a **HW*
 <a href="https://www.digitalfutures.kth.se/call/digital-futures-2026-summer-early-career-programme-sec-programme/" target="_blank" rel="noopener">LINK</a>
 - <strong><span style="color:#e74d3c">[Dec. 2025]</span></strong> Our paper entitiled **Application of UWB positioning to a cut-to-length forest harvester for accurate localization** has been accepted for **Oral Presentation** at the **UPINLBS 2025**, in which we first show a reliable and accurate method for locating a CTL-Harverster with decimeter-level accuracy inside forests.
 <a href="https://upinlbs2025.ubinp.com/technical" target="_blank" rel="noopener">LINK</a>
-- <strong><span style="color:#e74d3c">[Dec. 2025]</span></strong> Technical Sub-forum of Radio Frequency-based Indoor Positioning and Applications** is held in the 9th International Conference on UPINLBS 2025 in Shenzhen, China. 
+- <strong><span style="color:#e74d3c">[Dec. 2025]</span></strong> Technical Sub-forum of **Radio Frequency-based Indoor Positioning and Applications** is held in the 9th International Conference on UPINLBS 2025 in Shenzhen, China. 
 <a href="https://upinlbs2025.ubinp.com/technical" target="_blank" rel="noopener">LINK</a>
 - <strong><span style="color:#e74d3c">[Sep. 2025]</span></strong> Our project **EATP4Plots** funded by the **RCF Finland** is online. 
 <a href="https://www.maanmittauslaitos.fi/en/research/eatp4plots" target="_blank" rel="noopener">LINK</a>
