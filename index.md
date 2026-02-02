@@ -31,7 +31,7 @@ I have also more than six years of experience in the industry, acting as a **HW*
 <a href="https://www.maanmittauslaitos.fi/en/research/eatp4plots" target="_blank" rel="noopener">LINK</a>
 - <strong><span style="color:#e74d3c">[Jun. 2025]</span></strong> EATP4Plots is accepted by the RCF Finland as a **Fellowship project of 4 years**. 
 <a href="https://research.fi/en/results/funding/83040" target="_blank" rel="noopener">LINK</a>
-- <strong><span style="color:#e74d3c">[Apr. 2025]</span></strong> Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a **Oral Presentation** in **ISPRS Geospatial Week 2025** in Dubai.
+- <strong><span style="color:#e74d3c">[Apr. 2025]</span></strong> Our paper about Comparation of UWB and MLS for Mapping Forest Trees is accepted as a **Oral Presentation** at the **ISPRS Geospatial Week 2025**, which will be held from 6 to 11 April 2025 in Dubai, UAE.
 <a href="https://isprs-annals.copernicus.org/articles/X-G-2025/551/2025/isprs-annals-X-G-2025-551-2025.html" target="_blank" rel="noopener">LINK</a>
 
 {% include_relative _includes/projects.md %}
