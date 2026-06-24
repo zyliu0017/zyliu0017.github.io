@@ -21,7 +21,7 @@ I have also more than six years of experience in the industry, acting as a **HW*
 
 
 ## Latest News
-- <strong><span style="color:#e74d3c">[Jun. 2026]</span></strong> The first batch of Early Career EditorialBoard (ECEB) Members of **Remote Sensing (ISSN 2072-4292)** has been officially launched online. I’m honored to be among the 38 researchers selected worldwide. It is a privilege to be part of the Remote Sensing community, and I look forward to contributing to its continued growth and impact.
+- <strong><span style="color:#e74d3c">[Jun. 2026]</span></strong> The first batch of **Early Career EditorialBoard (ECEB) Members** of **<em>Remote Sensing<em> (ISSN 2072-4292)** has been officially launched online. I’m honored to be among the 38 researchers selected worldwide. It is a privilege to be part of the Remote Sensing community, and I look forward to contributing to its continued growth and impact.
 <a href="https://www.mdpi.com/journal/remotesensing/early-career-editors?page_no=1" target="_blank" rel="noopener">LINK</a>
 - <strong><span style="color:#e74d3c">[Jan. 2026]</span></strong> Our paper entitiled **Tree Localization Using Integrated Heading, DBH and Ultra-Wideband for Precision Forestry** has been accepted for **Oral Presentation** at the **XXL ISPRS Congress, which will be held from 4 to 11 July 2026 in Toronto, Canada**. More info will be provided soon.
 <a href="https://www.isprs2026toronto.com/" target="_blank" rel="noopener">LINK</a>
